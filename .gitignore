@@ -1,0 +1,14 @@
+# General
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+*.tfvars
+*.tfvars.json
+
+# Environment
+.env
+.DS_Store
+
+# Scripts
+scripts/*.log
